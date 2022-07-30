@@ -1,17 +1,17 @@
-Hi 👋 My name is Hafiz
+Hi 👋🏼 My name is Hafiz
 ======================
 
 Web Developer and Designer
 --------------------------
 
-A self-learner who is working to become a Full-stack Web Developer on MERN. I really enjoy learning languages and frameworks like React.
+A self-learner Web Developer on MERN stack. I really enjoy Coding stuffs.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
-* 🚀  I'm currently working on [DevFinderX](http://devfinderx.netlify.app/)
-* 🧠  I'm learning ReactJs
+* 🚀  My latest work [DevFinderX](http://devfinderx.netlify.app/)
+* 🧠  Exploring React js
 * 🤝  I'm open to collaborating on Web Development projects and User Interface building.
-* ⚡  I am a content maker too.
+* ⚡  Visit [CodeKofy](http://www.instagram.com/codekofy) for more contents.
 
 ### Skills
 
