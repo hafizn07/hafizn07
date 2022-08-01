@@ -14,7 +14,7 @@ Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmp&theme=react)](https://github.com/hafizmp/github-readme-stats)
+<a href="https://github.com/hafizmp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmp&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br>
 
@@ -46,7 +46,7 @@ Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
 
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=hafizmp&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmp&theme=react" width="48%" >
 <br>
 
