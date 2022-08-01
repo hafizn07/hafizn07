@@ -1,19 +1,24 @@
-Hi 👋🏼 My name is Hafiz
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
 ======================
 
-Web Developer and Designer
---------------------------
+## Who Am I? 🤠
 
-A self-learner Web Developer on MERN stack. I really enjoy Coding stuffs.
+- 🤓 Self taught Developer 
+- 🌍  I'm based in Kerala, India
+- 👩‍💻 Working on Web & App Development 
+- 📝 Writing Words, Compiling Code
+- 🎯 Goal : To be a better Developer 
+- ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
+- 🚀  My latest work [DevFinderX](http://devfinderx.netlify.app/)
 
-* 🌍  I'm based in Kerala, India
-* ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
-* 🚀  My latest work [DevFinderX](http://devfinderx.netlify.app/)
-* 🧠  Exploring React js
-* 🤝  I'm open to collaborating on Web Development projects and User Interface building.
-* ⚡  Visit [CodeKofy](http://www.instagram.com/codekofy) for more contents.
+<br>
 
-### Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmp&theme=react)](https://github.com/hafizmp/github-readme-stats)
+
+<br>
+
+## Skills 🛡
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -39,22 +44,21 @@ A self-learner Web Developer on MERN stack. I really enjoy Coding stuffs.
 </p>
 
 
-### Socials
+## Github Status 🏆
 
-<p align="left"> <a href="https://www.codepen.io/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/codekofy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mehafiz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19322410/hafiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmp&theme=react" width="48%" >
+<br>
 
-### Stats
+![github graph](https://activity-graph.herokuapp.com/graph?username=hafizmp&theme=react-dark)
+<br>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hafizmp"><img src="https://github-readme-stats.vercel.app/api?username=hafizmp&show_icons=true&hide=issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&show_icons=true" alt="hafizmp's GitHub stats" /></a>
+### <p align="center">Wanna Know me More?</p>
 
-<a href="http://www.github.com/hafizmp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmp&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center"> 
+<a href="https://www.codepen.io/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/hafizmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/codekofy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mehafiz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19322410/hafiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+</p>
 
-<a href="http://www.github.com/hafizmp"><img src="https://activity-graph.herokuapp.com/graph?username=hafizmp&bg_color=22272e&color=ffffff&line=ec4899&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=hafizmp.hafizmp" alt="haizmp :: Visitor's Count" /></p>
 
-<a href="https://github.com/hafizmp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmp&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/hafizn07"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
