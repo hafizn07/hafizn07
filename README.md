@@ -5,10 +5,8 @@ Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 🌍  I'm based in Kerala, India
-- 👩‍💻 Working on Web & App Development 
-- 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
+- 📝 Writing Words, Compiling Code
 - ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
 - 🚀  My latest work [DevFinderX](http://devfinderx.netlify.app/)
 
