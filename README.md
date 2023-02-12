@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
+Nice to meet you, I'm Hafiz
 ======================
 
 ## Who Am I? 🤠
@@ -8,7 +8,7 @@ Nice to meet you, I'm Hafiz aka [CodeKofy](http://www.instagram.com/codekofy)
 - 🎯 Goal : To be a better Developer 
 - 📝 Writing Words, Compiling Code
 - ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
-- 🚀  My latest work [DevFinderX](http://devfinderx.netlify.app/)
+- 🚀  See my portfolio [PORTFOLIO](https://www.hafizmp.com/)
 
 <br>
 
