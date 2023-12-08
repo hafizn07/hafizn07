@@ -9,18 +9,16 @@
 <p align="left"> <a href="https://twitter.com/Hafizmp_07" target="blank"><img src="https://img.shields.io/twitter/follow/Hafizmp_07?logo=twitter&style=for-the-badge" alt="Hafizmp_07" /></a> </p>
 
 - 🎯 Goal is to be a better Developer
+  
+- ⚡ A **Midnight programmer**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **React/NextJs**
+- 💬 Ask me about **ReactJS, NextJS, Javascript, Git, ReactNative, Flutter**
 
-- 💬 Ask me about **React,Javascript , Git, ,ReactNative**
-
-- ⚡ A **Midnight programmer**
-
-- 🚀  See my portfolio [PORTFOLIO](https://www.hafizmp.com/)
+- 🚀  See my portfolio [PORTFOLIO](https://www.hafizn.netlify.app/)
 
 - ✉️  You can contact me at [hafiznjh007@gmail.com](mailto:hafiznjh007@gmail.com)
 
